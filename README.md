@@ -13,3 +13,5 @@
 - [02](./chapter4/02.md)
 
 - [03](./chapter4/03.md)
+
+- [04](./chapter4/04.md)
