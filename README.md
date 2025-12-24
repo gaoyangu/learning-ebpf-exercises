@@ -2,9 +2,17 @@
 
 ## chapter2
 
+- [chapter2](./chapter2/)
 
 ## chapter3
 
+- [01](./chapter3/01.md)
+
+- [02](./chapter3/02.md)
+
+- [03](./chapter3/03.md)
+
+- [04](./chapter3/04.md)
 
 ## chapter4
 
